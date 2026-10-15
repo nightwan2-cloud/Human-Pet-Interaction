@@ -11,6 +11,12 @@ These are the relevant appearance and wardrobe rules bundled from the North Amer
 - Use a natural viewing distance within the room, not a face close-up. Do not add macro eye, iris, pupil, eyelid, or corneal details. Avoid quality-keyword stacks.
 - Natural expressions and body language must respond to the actual event. Ethnicity does not determine personality, social class, or lifestyle.
 
+### Distinct facial casting
+
+- For each newly cast adult, choose a coherent combination of two or three visible identity cues from facial outline and jaw, brow shape or eye spacing, nose shape, and hairline or hairstyle. Describe only the cues that will remain legible at the requested environmental camera distance. Keep them natural and individual, without ethnic stereotypes, facial-feature checklists, or close-up eye anatomy.
+- When creating different people across consecutive scenes, compare the latest three accessible casts with the same person composition. Change at least two structural facial cues; changing clothes, hair color, or skin texture alone is not a new face. Give each member of a couple distinct cues without making them look artificially mismatched. Use only accessible conversation history; do not claim cross-conversation uniqueness.
+- If the user requests the same recurring person or supplies an identity reference, preserve that person's established features instead of rotating them. Follow explicit identity details over variety rules.
+
 ## Original outfits
 
 - Create exactly one complete original outfit per person, suitable for season, room temperature, activity, and requested formality. Compose it from garment categories, cut, fabric, pattern, and styling decisions; do not retrieve a finished outfit or merely recolor a previous one.
