@@ -1,0 +1,6 @@
+interface:
+  display_name: "North American Human-Pet Scenes"
+  short_description: "Create realistic rug-style human-pet scenes"
+  default_prompt: "Use $north-american-rug-human-pet-scenes to create a realistic human-pet scene prompt from my rug image and style."
+policy:
+  allow_implicit_invocation: true
